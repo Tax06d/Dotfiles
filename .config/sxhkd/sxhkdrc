@@ -1,0 +1,80 @@
+super + Return
+	kitty
+
+super + shift + Return
+	alacritty
+
+alt + Return
+	 tilix
+
+# program launcher
+alt + d
+	rofi -show drun -disable-history
+
+super + w
+	google-chrome-stable
+
+super + c
+	code
+
+super + f
+	pcmanfm
+
+super + m
+	nitrogen
+
+alt + p
+	zathura
+
+alt + r
+	kitty -e $HOME/.config/vifm/scripts/vifmrun
+
+@F11
+	i3lock -u -t -i /home/tax06d/Lock/1492163.png
+
+# make sxhkd reload its configuration files:
+super + Escape
+	pkill -USR1 -x sxhkd
+
+#
+# multimedia hotkeys
+#
+super + @F4
+	playerctl stop
+
+@F5
+	playerctl play-pause
+
+@F6
+	playerctl previous
+
+@F7
+	playerctl next
+
+#alt + @F2
+#	pamixer --decrease 2
+#	pactl set-sink-volume @DEFAULT_SINK@ -2%
+
+#alt + @F3
+#	pamixer --increase 2
+#	pactl set-sink-volume @DEFAULT_SINK@ +2%
+
+#alt + @F4
+#	pamixer --toggle-mute
+#	pactl set-sink-mute @DEFAULT_SINK@ toggle
+
+#
+# brillo
+#
+super + @F2
+	brightnessctl set 5%-
+
+super + @F3
+	brightnessctl set +5%
+
+@F1
+	$HOME/.local/bin/power.sh
+
+@F4
+	dmenu_run
+

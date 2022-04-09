@@ -1,0 +1,35 @@
+Apr 06 20:09 : config: option 'buffer_time' on line 23 was not recognized
+Apr 06 20:09 : config: option 'max_client' on line 38 was not recognized
+Apr 06 20:09 : exception: Failed to access /home/tax06d/Music: No such file or directory
+Apr 06 20:12 : config: option 'buffer_time' on line 23 was not recognized
+Apr 06 20:12 : config: option 'max_client' on line 38 was not recognized
+Apr 06 20:27 : config: option 'buffer_time' on line 23 was not recognized
+Apr 06 20:27 : config: option 'max_client' on line 38 was not recognized
+Apr 06 21:00 : config: option 'buffer_time' on line 23 was not recognized
+Apr 06 21:00 : config: option 'max_client' on line 38 was not recognized
+Apr 06 21:07 : config: option 'buffer_time' on line 23 was not recognized
+Apr 06 21:07 : config: option 'max_client' on line 38 was not recognized
+Apr 06 21:19 : config: option 'buffer_time' on line 23 was not recognized
+Apr 06 21:19 : config: option 'max_client' on line 38 was not recognized
+Apr 07 11:32 : config: option 'buffer_time' on line 23 was not recognized
+Apr 07 11:32 : config: option 'max_client' on line 38 was not recognized
+Apr 07 11:44 : config: option 'buffer_time' on line 23 was not recognized
+Apr 07 11:44 : config: option 'max_client' on line 38 was not recognized
+Apr 07 13:55 : client: [0] command "close" during idle
+Apr 07 13:56 : client: [1] command "close" during idle
+Apr 07 13:57 : client: [2] command "close" during idle
+Apr 07 13:57 : client: [3] command "close" during idle
+Apr 07 18:39 : config: option 'buffer_time' on line 23 was not recognized
+Apr 07 18:39 : config: option 'max_client' on line 38 was not recognized
+Apr 07 18:46 : client: [0] command "close" during idle
+Apr 07 18:46 : client: [1] command "close" during idle
+Apr 07 18:49 : client: [2] command "close" during idle
+Apr 07 18:49 : client: [3] command "close" during idle
+Apr 07 18:49 : client: [4] command "close" during idle
+Apr 07 18:56 : client: [5] command "close" during idle
+Apr 08 10:28 : config: option 'buffer_time' on line 23 was not recognized
+Apr 08 10:28 : config: option 'max_client' on line 38 was not recognized
+Apr 08 12:11 : config: option 'buffer_time' on line 23 was not recognized
+Apr 08 12:11 : config: option 'max_client' on line 38 was not recognized
+Apr 09 06:29 : config: option 'buffer_time' on line 23 was not recognized
+Apr 09 06:29 : config: option 'max_client' on line 38 was not recognized

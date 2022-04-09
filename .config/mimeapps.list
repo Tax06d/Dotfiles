@@ -1,0 +1,15 @@
+[Added Associations]
+application/x-shellscript=nvim.desktop;com.gexperts.Tilix.desktop;
+text/plain=nvim.desktop;com.gexperts.Tilix.desktop;
+application/pdf=org.pwmt.zathura.desktop;
+application/vnd.comicbook-rar=org.pwmt.zathura.desktop;
+application/x-executable=visual-studio-code.desktop;
+application/x-object=nvim.desktop;
+application/octet-stream=nvim.desktop;
+
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
